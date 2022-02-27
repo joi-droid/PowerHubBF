@@ -1,0 +1,3 @@
+_G.Color = Color3.fromRGB(0,255,0)
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/PowerxCANDYYY/BFFREE/main/POWERX.lua"),true))()
